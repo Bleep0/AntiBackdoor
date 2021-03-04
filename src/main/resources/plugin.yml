@@ -1,0 +1,5 @@
+name: AntiBackdoor
+version: ${project.version}
+main: dev.bleepo.antibackdoor.AntiBackdoor
+api-version: 1.16
+description: AntiBackdoor
